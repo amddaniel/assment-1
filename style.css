@@ -1,0 +1,96 @@
+*
+{
+    margin:0;
+    pndding:0;
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+nav ul{
+    display: flex;
+    justify-content: space-between;
+    align-content: center;
+    width: 50%;
+    list-style-type: none;
+}
+.logo{
+    margin-left: 50px;
+    margin-top: 10px;
+}
+.lbtn{
+    background-color: black;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 20px;
+}
+.main-section{
+    margin-top: 60px;
+    margin-left: 50px;
+}
+.main-section h1{
+    font-size: 70px;
+}
+.sub1,.sub2,.sub3,.sub4
+{
+    display: flex;
+    align-content: center;
+    justify-content: center;
+}
+.sub1 ul,.sub2 ul,.sub3 ul,.sub4 ul
+{
+    list-style-type: none;
+}
+.main-div{
+    display: flex;
+}
+.muisc{
+    margin-top: 40px;
+    justify-content: center;
+}
+.image{
+     display: flex;
+     align-content: center;
+    justify-content: space-between;
+     gap: 50px;
+     margin-top: 60px;
+     margin-left: 50px;
+     
+    
+ }
+ .see{
+  
+    background: rgb(177, 16, 16);
+    margin-top: 30px;
+    margin-left:610px;
+    display: flex;
+    align-content: center;
+    justify-content:space-between;
+    font-size-adjust: initial;
+    font-size: 20px;
+  
+ }
+ .link{
+  display: flex;
+  align-content: center;
+  justify-content: center;
+   margin-left: 170px;
+   
+   
+}
+.link1,.link2,.link3{
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    margin-left: 610px;
+}
+.text{
+display: flex;
+align-content: center;
+justify-content: center;
+margin-left: 300px;
+font-size: 10px;
+font-size-adjust: initial;
+}
